@@ -257,11 +257,11 @@ Select the Nikto scan result.
 
 If everything works well, yo will see the following result indicating the Nikto result has been imported into Dradis.
 
-![img](https://lh6.googleusercontent.com/q6Edh2yLH7Ib9DuqDLqjsaFcCUtr198TmULc6u1kv2ICd0ivO6cd2ePqQ-57l35qpXUPyZN6BYsBsj4w7dK5IMMLqAQ1W0T1k5Wn5GpV8Xd8uv76tZZQJLqQEfPIC2KUbuaSjjZ- =480x*)
+![img](https://lh6.googleusercontent.com/q6Edh2yLH7Ib9DuqDLqjsaFcCUtr198TmULc6u1kv2ICd0ivO6cd2ePqQ-57l35qpXUPyZN6BYsBsj4w7dK5IMMLqAQ1W0T1k5Wn5GpV8Xd8uv76tZZQJLqQEfPIC2KUbuaSjjZ-)
 
 Now you are able to see the scan results of different tools in a centralized GUI.
 
-![img](https://lh3.googleusercontent.com/1kdpjbR9scEls_LII7hWi2j4fYkph1jaTc09yvqItvcYH3RdN0VKxnlJWvypDdStlo3hSPN7uTks1haCZcwE2oEDgXApg0AeMDOFqRrI3yAb_WzRmHPsVmQrJO3m6ZrwoD8i2CnC =480x*)
+![img](https://lh3.googleusercontent.com/1kdpjbR9scEls_LII7hWi2j4fYkph1jaTc09yvqItvcYH3RdN0VKxnlJWvypDdStlo3hSPN7uTks1haCZcwE2oEDgXApg0AeMDOFqRrI3yAb_WzRmHPsVmQrJO3m6ZrwoD8i2CnC)
 
 ## Web Vulnerability Scanners: Skipfish, Nikto, Golismero, etc.
 
