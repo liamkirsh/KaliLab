@@ -6,7 +6,7 @@
 
 Kali Linux is a Linux distribution designed for digital forensics and penetration testing. It comes with over 600 pre-installed penetration testing tools.
 
-![1511135243432](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1511135243432.png)
+![1511135243432](https://dl.dropboxusercontent.com/s/gn9bei3f4npsd4b/1511135243432.png)
 
 ### Learning Objectives
 
@@ -275,7 +275,7 @@ From OWASP:
 
 Nikto is one of the simplest to use Web Vulnerability Scanners in Kali. Below, we can see the first part of a Nikto scan that was run against our target host's web server.
 
-![1510454040741](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1510454040741.png)
+![1510454040741](https://dl.dropboxusercontent.com/s/07o3dy1y4h6cs80/1510454040741.png)
 
 
 ### Skipfish
@@ -290,21 +290,21 @@ A simple skipfish scan can be run on our target as follows:
 
 You will then be presented with this interface:
 
-![1510454954298](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1510454954298.png)
+![1510454954298](https://dl.dropboxusercontent.com/s/okydf4c3nfwrfjq/1510454954298.png)
 
 After pressing a key, the terminal will look like this:
 
-![1510454988572](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1510454988572.png)
+![1510454988572](https://dl.dropboxusercontent.com/s/w98rur1evpfaqoh/1510454988572.png)
 
 This scan can take a long time. Once finished, the results will be put in the directory specified by the _-o_ parameter. In this case, the output directory is *skipfish_out*.
 
 When the scan is complete, an *index.html* page is created in *skipfish_out*. If opened in the browser, it shows this dashboard:
 
-![1510457909910](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1510457909910.png)
+![1510457909910](https://dl.dropboxusercontent.com/s/m76as9s6se8do41/1510457909910.png)
 
 If you scroll down, a list of possible issues is displayed:
 
-![1510458029030](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1510458029030.png)
+![1510458029030](https://dl.dropboxusercontent.com/s/5c54ixvjf68o273/1510458029030.png)
 
 The _Query Injection_ and _Shell Injection_ vectors represent vulnerabilities that attackers could use to execute potentially malicious behavior on the target.
 
@@ -314,7 +314,7 @@ The _Query Injection_ and _Shell Injection_ vectors represent vulnerabilities th
 
 An example scan can be found below:
 
-![1510454629546](https://topomojo.ini.cmu.edu/docs/dc2abdd7-f905-4d73-b4cf-0cdf3ac65a0b/1510454629546.png)
+![1510454629546](https://dl.dropboxusercontent.com/s/q9az2rfp682niyu/1510454629546.png)
 
 ## Password Crackers: Hashcat, medusa, wordlists, etc
 
@@ -361,40 +361,40 @@ We will now tell the computer to connect back to us to prove that the connection
 We can see that the SOCKS proxy initiated the connection back to us.
 
 ## Kahoot Quiz
-1. What is Kali? Select the best answer.
-A.  A Native American god
-B.  A collection of reconnaissance tools
-C.  A vulnerability scanner
-D.  A Linux distribution
+1. What is Kali? Select the best answer.  
+A.  A Native American god  
+B.  A collection of reconnaissance tools  
+C.  A vulnerability scanner  
+D.  A Linux distribution  
 
-2. Which one is SPARTA not used for in this lab?
-A. Scanning for vulnerable services
-B. Gaining access to a database
-C. Spoofing the IP of the metasploitable machine
-D. Cracking the MySQL server password
+2. Which one is SPARTA not used for in this lab?  
+A. Scanning for vulnerable services  
+B. Gaining access to a database  
+C. Spoofing the IP of the metasploitable machine  
+D. Cracking the MySQL server password  
 
-3. What sort of network request does http-headers.nse send to the server?
-A. POST
-B. HEAD
-C. GET
-D. DELETE
+3. What sort of network request does http-headers.nse send to the server?  
+A. POST  
+B. HEAD  
+C. GET  
+D. DELETE  
 
-4. True or false: Nmap Scripting Engine (NSE) can exploit vulnerabilities.
-A. True
-B. False
+4. True or false: Nmap Scripting Engine (NSE) can exploit vulnerabilities.  
+A. True  
+B. False  
 
-5. In the Dradis section, what is the format of the files imported into Dradis?
-A. drl
-B. xml
-C. json
-D. zip
+5. In the Dradis section, what is the format of the files imported into Dradis?  
+A. drl  
+B. xml  
+C. json  
+D. zip  
 
-6. Which of the above is not used to crack passwords normally?
-A. Wordlists
-B. Golismero
-C. Hashcat
-D. John the Ripper
+6. Which of the above is not used to crack passwords normally?  
+A. Wordlists  
+B. Golismero  
+C. Hashcat  
+D. John the Ripper  
 
-7. Have you learned something about Kali during this demo?
-A. Yes
-B. No
+7. Have you learned something about Kali during this demo?  
+A. Yes  
+B. No  
